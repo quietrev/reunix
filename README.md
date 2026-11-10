@@ -1,5 +1,5 @@
 # reunix
-Using unix again after a 10+ year break.
+Using unix again after a 20+ year break.
 
 I ran an internet provider in Japan circa 1995 ~ 2003.  Started with NetBSD, then FreeBSD.  Ran out of money, and closed the business.  Found a job in the financial industry.  and left things be ~2005.  Retired in 2025.  Re-entered the IT world in early 2026.
 
